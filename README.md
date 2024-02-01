@@ -37,5 +37,5 @@ Website is itself quiet simple yet indulging, easy to navigate as everything is 
 ## Inspiration
 In the 2nd year of engineering, I explored the path of web development and learnt some technologies like- HTML, CSS, JS, NodeJS, ExpressJs, MongoDB, Postman etc. I thought to build something out of my learning to test my skills and experience the difficulties that always pop up in the middle of development process.
 
-*Overall , It was great learning WEB DEVELOPMENT. Next, I want to learn popular framework **AngularJs** , to make powerful single page web applications.*
+*Overall , It was great learning WEB DEVELOPMENT. Next, I am learning popular library **ReactJs** , to make powerful single page web applications.*
 
